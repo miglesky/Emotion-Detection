@@ -40,6 +40,5 @@ The model consists of **1.39 million parameters**.
 
 Feel free to explore and experiment with the model for emotion detection in video frames or images.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
